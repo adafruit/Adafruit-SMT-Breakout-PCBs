@@ -22,6 +22,8 @@ For more details, check out the product pages at
   * https://www.adafruit.com/products/1862 (JST 2-PH)
   * https://www.adafruit.com/products/1868 (12mm coin)
   * https://www.adafruit.com/products/1867 (12mm coin w/switch)
+  * https://www.adafruit.com/products/1870 (20mm coin)
+  * https://www.adafruit.com/products/1871 (20mm coin w/switch)
   * https://www.adafruit.com/products/1833 (micro B)
   * https://www.adafruit.com/products/1764 (mini B)
 
