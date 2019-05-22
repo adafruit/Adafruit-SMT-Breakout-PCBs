@@ -1,5 +1,5 @@
 ## Adafruit SMT Breakout PCBs
-<a href="http://www.adafruit.com/products/1944"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/1377"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 Beguiled by a fancy new chip that is only available in a strange pinout? These breakout PCBs will make your life much much easier and get you prototyping faster than ever.
