@@ -27,6 +27,7 @@ For more details, check out the product pages at
   * https://www.adafruit.com/products/1871 (20mm coin w/switch)
   * https://www.adafruit.com/products/1833 (micro B)
   * https://www.adafruit.com/products/1764 (mini B)
+  * https://www.adafruit.com/product/4984 (DVI)
   
 PCB files for Adafruit SMT Basic Breakouts. The format is EagleCAD schematic and board layout
 
